@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WentaoWu-neuroimaging
 - 👀 I’m interested in using imaging methods(MRI) to do research on neuroscience topics
-- 🌱 I’m currently a master's student at Upenn
+- 🌱 I’m currently a BME master's student at Upenn
 - 📫 You can reach me at: wentaowu@seas.upenn.edu
 
 <!---
